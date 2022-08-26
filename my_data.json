@@ -1,0 +1,1472 @@
+{
+    "0": {
+        "Region": "Africa",
+        "City Name": "South Africa",
+        "Language": "ea200453e7bf87e19ab051f834d9327c2f973cff",
+        "Time": 344.0
+    },
+    "1": {
+        "Region": "Africa",
+        "City Name": "DR Congo",
+        "Language": "4d07764fc1204ad402a2687ddda6ae939e80fec9",
+        "Time": 360.0
+    },
+    "2": {
+        "Region": "Africa",
+        "City Name": "South Sudan",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 360.0
+    },
+    "3": {
+        "Region": "Africa",
+        "City Name": "Zambia",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 360.0
+    },
+    "4": {
+        "Region": "Africa",
+        "City Name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "Language": "23882c575954a0789bf02aba9e6dd01f539bc738",
+        "Time": 360.0
+    },
+    "5": {
+        "Region": "Africa",
+        "City Name": "Mayotte",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 375.0
+    },
+    "6": {
+        "Region": "Africa",
+        "City Name": "Uganda",
+        "Language": "4d07764fc1204ad402a2687ddda6ae939e80fec9",
+        "Time": 375.0
+    },
+    "7": {
+        "Region": "Africa",
+        "City Name": "Mali",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 375.0
+    },
+    "8": {
+        "Region": "Africa",
+        "City Name": "Namibia",
+        "Language": "5b95a8145a0170a1eafedc879e48baaa97c51ba4",
+        "Time": 375.0
+    },
+    "9": {
+        "Region": "Africa",
+        "City Name": "R\u00e9union",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 391.0
+    },
+    "10": {
+        "Region": "Africa",
+        "City Name": "Madagascar",
+        "Language": "83037e8cfdd2d4cce1588dd7b05cd838b08a3777",
+        "Time": 391.0
+    },
+    "11": {
+        "Region": "Africa",
+        "City Name": "Chad",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 391.0
+    },
+    "12": {
+        "Region": "Africa",
+        "City Name": "Western Sahara",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 391.0
+    },
+    "13": {
+        "Region": "Africa",
+        "City Name": "Burkina Faso",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 391.0
+    },
+    "14": {
+        "Region": "Africa",
+        "City Name": "Djibouti",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 406.0
+    },
+    "15": {
+        "Region": "Africa",
+        "City Name": "Algeria",
+        "Language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "Time": 406.0
+    },
+    "16": {
+        "Region": "Africa",
+        "City Name": "Sierra Leone",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 406.0
+    },
+    "17": {
+        "Region": "Africa",
+        "City Name": "Mauritius",
+        "Language": "1019d9de94c68d662e67e3f580985280cc4a65a0",
+        "Time": 422.0
+    },
+    "18": {
+        "Region": "Africa",
+        "City Name": "Zimbabwe",
+        "Language": "d1f6424c5d6604a8783d9860afa13299704ae9c7",
+        "Time": 422.0
+    },
+    "19": {
+        "Region": "Africa",
+        "City Name": "Rwanda",
+        "Language": "d628ecf3df6973b41361d48a54a4f218f318026e",
+        "Time": 438.0
+    },
+    "20": {
+        "Region": "Africa",
+        "City Name": "Gambia",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 438.0
+    },
+    "21": {
+        "Region": "Africa",
+        "City Name": "Mauritania",
+        "Language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "Time": 438.0
+    },
+    "22": {
+        "Region": "Africa",
+        "City Name": "Morocco",
+        "Language": "ae47cf0153f22f97c4a3e621b0d35cc3d0cd33ca",
+        "Time": 453.0
+    },
+    "23": {
+        "Region": "Africa",
+        "City Name": "Liberia",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 453.0
+    },
+    "24": {
+        "Region": "Africa",
+        "City Name": "Somalia",
+        "Language": "2ed94ff47ed12a08088bd82b2b23088a5ac4cffc",
+        "Time": 453.0
+    },
+    "25": {
+        "Region": "Africa",
+        "City Name": "Saint Helena, Ascension and Tristan da Cunha",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 453.0
+    },
+    "26": {
+        "Region": "Africa",
+        "City Name": "Benin",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 469.0
+    },
+    "27": {
+        "Region": "Africa",
+        "City Name": "Malawi",
+        "Language": "8f6c799209cab1c043feb02ef5fd58ec85a7ec1b",
+        "Time": 469.0
+    },
+    "28": {
+        "Region": "Africa",
+        "City Name": "Ghana",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 469.0
+    },
+    "29": {
+        "Region": "Africa",
+        "City Name": "Eswatini",
+        "Language": "a223186bc5230bc15cca348b87dfe668270b1397",
+        "Time": 469.0
+    },
+    "30": {
+        "Region": "Africa",
+        "City Name": "Guinea-Bissau",
+        "Language": "533e8557f0dad19a7641237675941bc910c823e2",
+        "Time": 485.0
+    },
+    "31": {
+        "Region": "Africa",
+        "City Name": "Botswana",
+        "Language": "5b95a8145a0170a1eafedc879e48baaa97c51ba4",
+        "Time": 485.0
+    },
+    "32": {
+        "Region": "Africa",
+        "City Name": "Libya",
+        "Language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "Time": 485.0
+    },
+    "33": {
+        "Region": "Africa",
+        "City Name": "Senegal",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 500.0
+    },
+    "34": {
+        "Region": "Africa",
+        "City Name": "Guinea",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 500.0
+    },
+    "35": {
+        "Region": "Africa",
+        "City Name": "Burundi",
+        "Language": "ce155817c569823c8eead23fbb6892d7fa01dadb",
+        "Time": 500.0
+    },
+    "36": {
+        "Region": "Asia",
+        "City Name": "British Indian Ocean Territory",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 500.0
+    },
+    "37": {
+        "Region": "Africa",
+        "City Name": "Republic of the Congo",
+        "Language": "bdf581cc1c81ea3b5fa1a390925a643afcab19e5",
+        "Time": 516.0
+    },
+    "38": {
+        "Region": "Africa",
+        "City Name": "Kenya",
+        "Language": "4d07764fc1204ad402a2687ddda6ae939e80fec9",
+        "Time": 516.0
+    },
+    "39": {
+        "Region": "Africa",
+        "City Name": "Tunisia",
+        "Language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "Time": 516.0
+    },
+    "40": {
+        "Region": "Africa",
+        "City Name": "Central African Republic",
+        "Language": "92abd78f9709978b81b5500e9360025854b10479",
+        "Time": 531.0
+    },
+    "41": {
+        "Region": "Africa",
+        "City Name": "Nigeria",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 531.0
+    },
+    "42": {
+        "Region": "Africa",
+        "City Name": "Sudan",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 531.0
+    },
+    "43": {
+        "Region": "Africa",
+        "City Name": "Seychelles",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 531.0
+    },
+    "44": {
+        "Region": "Africa",
+        "City Name": "Tanzania",
+        "Language": "4d07764fc1204ad402a2687ddda6ae939e80fec9",
+        "Time": 547.0
+    },
+    "45": {
+        "Region": "Africa",
+        "City Name": "Ivory Coast",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 547.0
+    },
+    "46": {
+        "Region": "Africa",
+        "City Name": "Eritrea",
+        "Language": "671d7b141c957f28935c045970c0c111c71dfb47",
+        "Time": 547.0
+    },
+    "47": {
+        "Region": "Africa",
+        "City Name": "Ethiopia",
+        "Language": "13bf461c74324e0ccb378e9aad8ace8fb01a7d0f",
+        "Time": 547.0
+    },
+    "48": {
+        "Region": "Africa",
+        "City Name": "Comoros",
+        "Language": "ed18b33bab6ba1abcb61a54e47e50c34098f81a8",
+        "Time": 563.0
+    },
+    "49": {
+        "Region": "Africa",
+        "City Name": "Togo",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 563.0
+    },
+    "50": {
+        "Region": "Africa",
+        "City Name": "Cape Verde",
+        "Language": "23882c575954a0789bf02aba9e6dd01f539bc738",
+        "Time": 563.0
+    },
+    "51": {
+        "Region": "Africa",
+        "City Name": "Lesotho",
+        "Language": "3e8e2c04f6c6e94931c722da1a973fda77fc0fec",
+        "Time": 578.0
+    },
+    "52": {
+        "Region": "Africa",
+        "City Name": "Angola",
+        "Language": "23882c575954a0789bf02aba9e6dd01f539bc738",
+        "Time": 578.0
+    },
+    "53": {
+        "Region": "Africa",
+        "City Name": "Equatorial Guinea",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 578.0
+    },
+    "54": {
+        "Region": "Africa",
+        "City Name": "Mozambique",
+        "Language": "23882c575954a0789bf02aba9e6dd01f539bc738",
+        "Time": 594.0
+    },
+    "55": {
+        "Region": "Africa",
+        "City Name": "Gabon",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 594.0
+    },
+    "56": {
+        "Region": "Africa",
+        "City Name": "Niger",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 594.0
+    },
+    "57": {
+        "Region": "Africa",
+        "City Name": "Cameroon",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 594.0
+    },
+    "58": {
+        "Region": "Africa",
+        "City Name": "Egypt",
+        "Language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "Time": 610.0
+    },
+    "59": {
+        "Region": "North America",
+        "City Name": "Dominican Republic",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 312.0
+    },
+    "60": {
+        "Region": "North America",
+        "City Name": "Guatemala",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 328.0
+    },
+    "61": {
+        "Region": "South America",
+        "City Name": "Chile",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 328.0
+    },
+    "62": {
+        "Region": "South America",
+        "City Name": "Uruguay",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 328.0
+    },
+    "63": {
+        "Region": "North America",
+        "City Name": "Turks and Caicos Islands",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 343.0
+    },
+    "64": {
+        "Region": "North America",
+        "City Name": "Saint Lucia",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 343.0
+    },
+    "65": {
+        "Region": "North America",
+        "City Name": "El Salvador",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 343.0
+    },
+    "66": {
+        "Region": "North America",
+        "City Name": "Cuba",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 343.0
+    },
+    "67": {
+        "Region": "North America",
+        "City Name": "Trinidad and Tobago",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 359.0
+    },
+    "68": {
+        "Region": "North America",
+        "City Name": "Saint Martin",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 359.0
+    },
+    "69": {
+        "Region": "North America",
+        "City Name": "Antigua and Barbuda",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 359.0
+    },
+    "70": {
+        "Region": "North America",
+        "City Name": "Grenada",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 375.0
+    },
+    "71": {
+        "Region": "Oceania",
+        "City Name": "United States Minor Outlying Islands",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 375.0
+    },
+    "72": {
+        "Region": "South America",
+        "City Name": "French Guiana",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 375.0
+    },
+    "73": {
+        "Region": "South America",
+        "City Name": "Peru",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 390.0
+    },
+    "74": {
+        "Region": "North America",
+        "City Name": "Saint Pierre and Miquelon",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 390.0
+    },
+    "75": {
+        "Region": "North America",
+        "City Name": "Dominica",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 390.0
+    },
+    "76": {
+        "Region": "South America",
+        "City Name": "Suriname",
+        "Language": "334a85f1b16e32b6ba9a69313c6f584edef482cc",
+        "Time": 406.0
+    },
+    "77": {
+        "Region": "North America",
+        "City Name": "Costa Rica",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 406.0
+    },
+    "78": {
+        "Region": "North America",
+        "City Name": "Martinique",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 421.0
+    },
+    "79": {
+        "Region": "North America",
+        "City Name": "Nicaragua",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 421.0
+    },
+    "80": {
+        "Region": "North America",
+        "City Name": "Honduras",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 421.0
+    },
+    "81": {
+        "Region": "South America",
+        "City Name": "Guyana",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 437.0
+    },
+    "82": {
+        "Region": "South America",
+        "City Name": "Paraguay",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 437.0
+    },
+    "83": {
+        "Region": "North America",
+        "City Name": "Sint Maarten",
+        "Language": "334a85f1b16e32b6ba9a69313c6f584edef482cc",
+        "Time": 437.0
+    },
+    "84": {
+        "Region": "North America",
+        "City Name": "Jamaica",
+        "Language": "ea54f38dac88bc15164882c919dccf57bba755f7",
+        "Time": 453.0
+    },
+    "85": {
+        "Region": "South America",
+        "City Name": "Venezuela",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 453.0
+    },
+    "86": {
+        "Region": "North America",
+        "City Name": "Aruba",
+        "Language": "5db30345f51182f92447d0b58aa7baf1c5267879",
+        "Time": 453.0
+    },
+    "87": {
+        "Region": "North America",
+        "City Name": "British Virgin Islands",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 468.0
+    },
+    "88": {
+        "Region": "North America",
+        "City Name": "Caribbean Netherlands",
+        "Language": "5db30345f51182f92447d0b58aa7baf1c5267879",
+        "Time": 468.0
+    },
+    "89": {
+        "Region": "North America",
+        "City Name": "Cayman Islands",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 484.0
+    },
+    "90": {
+        "Region": "North America",
+        "City Name": "Bahamas",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 484.0
+    },
+    "91": {
+        "Region": "North America",
+        "City Name": "Puerto Rico",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 484.0
+    },
+    "92": {
+        "Region": "South America",
+        "City Name": "Ecuador",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 500.0
+    },
+    "93": {
+        "Region": "North America",
+        "City Name": "United States",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 500.0
+    },
+    "94": {
+        "Region": "North America",
+        "City Name": "Mexico",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 515.0
+    },
+    "95": {
+        "Region": "North America",
+        "City Name": "Saint Vincent and the Grenadines",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 515.0
+    },
+    "96": {
+        "Region": "North America",
+        "City Name": "Cura\u00e7ao",
+        "Language": "5db30345f51182f92447d0b58aa7baf1c5267879",
+        "Time": 531.0
+    },
+    "97": {
+        "Region": "South America",
+        "City Name": "Bolivia",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 562.0
+    },
+    "98": {
+        "Region": "North America",
+        "City Name": "Barbados",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 578.0
+    },
+    "99": {
+        "Region": "North America",
+        "City Name": "Belize",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 609.0
+    },
+    "100": {
+        "Region": "North America",
+        "City Name": "Guadeloupe",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 609.0
+    },
+    "101": {
+        "Region": "North America",
+        "City Name": "Saint Barth\u00e9lemy",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 625.0
+    },
+    "102": {
+        "Region": "South America",
+        "City Name": "Argentina",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 640.0
+    },
+    "103": {
+        "Region": "North America",
+        "City Name": "Haiti",
+        "Language": "59269e099c20a6cba6b81f8892d08d54ab3f8528",
+        "Time": 656.0
+    },
+    "104": {
+        "Region": "South America",
+        "City Name": "Brazil",
+        "Language": "23882c575954a0789bf02aba9e6dd01f539bc738",
+        "Time": 656.0
+    },
+    "105": {
+        "Region": "South America",
+        "City Name": "Colombia",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 656.0
+    },
+    "106": {
+        "Region": "North America",
+        "City Name": "Montserrat",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 671.0
+    },
+    "107": {
+        "Region": "North America",
+        "City Name": "United States Virgin Islands",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 671.0
+    },
+    "108": {
+        "Region": "North America",
+        "City Name": "Saint Kitts and Nevis",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 687.0
+    },
+    "109": {
+        "Region": "North America",
+        "City Name": "Anguilla",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 718.0
+    },
+    "110": {
+        "Region": "North America",
+        "City Name": "Bermuda",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 718.0
+    },
+    "111": {
+        "Region": "North America",
+        "City Name": "Canada",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 718.0
+    },
+    "112": {
+        "Region": "South America",
+        "City Name": "Falkland Islands",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 734.0
+    },
+    "113": {
+        "Region": "North America",
+        "City Name": "Panama",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 734.0
+    },
+    "114": {
+        "Region": "North America",
+        "City Name": "Greenland",
+        "Language": "4f3cadca02ab29bdc3cf5ae2f21128c91fd8ac24",
+        "Time": 734.0
+    },
+    "115": {
+        "Region": "Asia",
+        "City Name": "Nepal",
+        "Language": "16e340746126ed50b9b41c11e75938dcc3f78df2",
+        "Time": 312.0
+    },
+    "116": {
+        "Region": "Asia",
+        "City Name": "Laos",
+        "Language": "c1439807deac3e6c9290cfd97415a4b15f4ba6c8",
+        "Time": 312.0
+    },
+    "117": {
+        "Region": "Asia",
+        "City Name": "Syria",
+        "Language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "Time": 312.0
+    },
+    "118": {
+        "Region": "Asia",
+        "City Name": "Singapore",
+        "Language": "86c2b6275f076b31c4be9812e835dab2a6f07ccf",
+        "Time": 328.0
+    },
+    "119": {
+        "Region": "Asia",
+        "City Name": "Azerbaijan",
+        "Language": "74ad93cbebf587ac46ab0ef1e3f24139ddd3f535",
+        "Time": 328.0
+    },
+    "120": {
+        "Region": "Asia",
+        "City Name": "Brunei",
+        "Language": "08f0c0cf51888a42175c6e62922d9b9e24579a11",
+        "Time": 328.0
+    },
+    "121": {
+        "Region": "Asia",
+        "City Name": "Kyrgyzstan",
+        "Language": "74ad93cbebf587ac46ab0ef1e3f24139ddd3f535",
+        "Time": 328.0
+    },
+    "122": {
+        "Region": "Asia",
+        "City Name": "Cambodia",
+        "Language": "3db4bac2e32c1fd4c51c4ffc01f1ab523d35aa5f",
+        "Time": 343.0
+    },
+    "123": {
+        "Region": "Asia",
+        "City Name": "Iraq",
+        "Language": "43a48f645422aa0824c883ca7cd0ea9bef151425",
+        "Time": 343.0
+    },
+    "124": {
+        "Region": "Asia",
+        "City Name": "Georgia",
+        "Language": "aca441ddd2e8d07643b87c1b24a828fa5b4b3e42",
+        "Time": 343.0
+    },
+    "125": {
+        "Region": "Asia",
+        "City Name": "Yemen",
+        "Language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "Time": 343.0
+    },
+    "126": {
+        "Region": "Asia",
+        "City Name": "South Korea",
+        "Language": "dec66c5bf0f7fe4cc038ac871def8eb1ac31c146",
+        "Time": 359.0
+    },
+    "127": {
+        "Region": "Asia",
+        "City Name": "Bhutan",
+        "Language": "579a26333f44c20a6b40672787ab1f6c891ba996",
+        "Time": 359.0
+    },
+    "128": {
+        "Region": "Asia",
+        "City Name": "China",
+        "Language": "15dc18865567bcc98554a72a8036e1b64a8b85d5",
+        "Time": 359.0
+    },
+    "129": {
+        "Region": "Asia",
+        "City Name": "Vietnam",
+        "Language": "1d6b8a691f0d907efa971075035a145a937381ac",
+        "Time": 375.0
+    },
+    "130": {
+        "Region": "Asia",
+        "City Name": "Oman",
+        "Language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "Time": 375.0
+    },
+    "131": {
+        "Region": "Asia",
+        "City Name": "Sri Lanka",
+        "Language": "86c2b6275f076b31c4be9812e835dab2a6f07ccf",
+        "Time": 375.0
+    },
+    "132": {
+        "Region": "Asia",
+        "City Name": "Bangladesh",
+        "Language": "198e9c0851a2cebe3440bd1cafd71b98e2d83392",
+        "Time": 375.0
+    },
+    "133": {
+        "Region": "Asia",
+        "City Name": "Afghanistan",
+        "Language": "24a49d0317fbd7a414f3e95189f38e30cc5010a7",
+        "Time": 390.0
+    },
+    "134": {
+        "Region": "Asia",
+        "City Name": "Taiwan",
+        "Language": "15dc18865567bcc98554a72a8036e1b64a8b85d5",
+        "Time": 390.0
+    },
+    "135": {
+        "Region": "Asia",
+        "City Name": "Qatar",
+        "Language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "Time": 390.0
+    },
+    "136": {
+        "Region": "Asia",
+        "City Name": "Thailand",
+        "Language": "c32767e0541fe7038ff8d87e7b8aed17f49474f8",
+        "Time": 406.0
+    },
+    "137": {
+        "Region": "Asia",
+        "City Name": "Turkey",
+        "Language": "ab650a1a4b8fdf3a4053ce8d277d335dd82e5447",
+        "Time": 421.0
+    },
+    "138": {
+        "Region": "Asia",
+        "City Name": "Kuwait",
+        "Language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "Time": 421.0
+    },
+    "139": {
+        "Region": "Asia",
+        "City Name": "Tajikistan",
+        "Language": "e301d53adc28f8dfd9375071aa503322cf99bba4",
+        "Time": 421.0
+    },
+    "140": {
+        "Region": "Asia",
+        "City Name": "United Arab Emirates",
+        "Language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "Time": 421.0
+    },
+    "141": {
+        "Region": "Asia",
+        "City Name": "India",
+        "Language": "86c2b6275f076b31c4be9812e835dab2a6f07ccf",
+        "Time": 437.0
+    },
+    "142": {
+        "Region": "Asia",
+        "City Name": "Pakistan",
+        "Language": "412e31909b8ad1417c4a39495653fdeba58cd034",
+        "Time": 437.0
+    },
+    "143": {
+        "Region": "Asia",
+        "City Name": "Jordan",
+        "Language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "Time": 437.0
+    },
+    "144": {
+        "Region": "Asia",
+        "City Name": "Lebanon",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 453.0
+    },
+    "145": {
+        "Region": "Asia",
+        "City Name": "Malaysia",
+        "Language": "08f0c0cf51888a42175c6e62922d9b9e24579a11",
+        "Time": 453.0
+    },
+    "146": {
+        "Region": "Asia",
+        "City Name": "Saudi Arabia",
+        "Language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "Time": 468.0
+    },
+    "147": {
+        "Region": "Oceania",
+        "City Name": "Timor-Leste",
+        "Language": "6ccaaacc2aa20efa920db394f3f4cb09e09d3195",
+        "Time": 468.0
+    },
+    "148": {
+        "Region": "Asia",
+        "City Name": "Uzbekistan",
+        "Language": "d67a39a9d54b774a32fdb91e118929cdbe784c0c",
+        "Time": 468.0
+    },
+    "149": {
+        "Region": "Asia",
+        "City Name": "Israel",
+        "Language": "348d00693e12bc983bd092677b90434b5a4d869e",
+        "Time": 484.0
+    },
+    "150": {
+        "Region": "Asia",
+        "City Name": "North Korea",
+        "Language": "dec66c5bf0f7fe4cc038ac871def8eb1ac31c146",
+        "Time": 484.0
+    },
+    "151": {
+        "Region": "Asia",
+        "City Name": "Philippines",
+        "Language": "cd9a5554356141790a82e86864449b480ac00a5e",
+        "Time": 500.0
+    },
+    "152": {
+        "Region": "Asia",
+        "City Name": "Kazakhstan",
+        "Language": "74ad93cbebf587ac46ab0ef1e3f24139ddd3f535",
+        "Time": 500.0
+    },
+    "153": {
+        "Region": "Asia",
+        "City Name": "Hong Kong",
+        "Language": "15dc18865567bcc98554a72a8036e1b64a8b85d5",
+        "Time": 500.0
+    },
+    "154": {
+        "Region": "Asia",
+        "City Name": "Palestine",
+        "Language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "Time": 515.0
+    },
+    "155": {
+        "Region": "Asia",
+        "City Name": "Turkmenistan",
+        "Language": "24a49d0317fbd7a414f3e95189f38e30cc5010a7",
+        "Time": 515.0
+    },
+    "156": {
+        "Region": "Asia",
+        "City Name": "Myanmar",
+        "Language": "460ce8e9a08300639b34b7a8264d1eac65d34d77",
+        "Time": 531.0
+    },
+    "157": {
+        "Region": "Asia",
+        "City Name": "Iran",
+        "Language": "3312c0b3de07dc6160ca6d18ee6f6078387ed686",
+        "Time": 531.0
+    },
+    "158": {
+        "Region": "Asia",
+        "City Name": "Macau",
+        "Language": "15dc18865567bcc98554a72a8036e1b64a8b85d5",
+        "Time": 531.0
+    },
+    "159": {
+        "Region": "Asia",
+        "City Name": "Japan",
+        "Language": "9239c22d1d1c990ca8c206cb408b345a3ec8114c",
+        "Time": 546.0
+    },
+    "160": {
+        "Region": "Asia",
+        "City Name": "Mongolia",
+        "Language": "c3bdbab40a4be4ac1b8eb1ccb2dbb2eaf8ed480f",
+        "Time": 546.0
+    },
+    "161": {
+        "Region": "Asia",
+        "City Name": "Bahrain",
+        "Language": "af4f4762f9bd3f0f4a10caf5b6e63dc4ce543724",
+        "Time": 562.0
+    },
+    "162": {
+        "Region": "Asia",
+        "City Name": "Indonesia",
+        "Language": "2339b8ad3625abec50c5fec9ccfe1b4c0adb5b6e",
+        "Time": 562.0
+    },
+    "163": {
+        "Region": "Asia",
+        "City Name": "Armenia",
+        "Language": "1a0d21145500640fd3f6136eeba595bfe934d364",
+        "Time": 578.0
+    },
+    "164": {
+        "Region": "Asia",
+        "City Name": "Maldives",
+        "Language": "864e7bdefc079d69bf268afa5873e45801b48a97",
+        "Time": 578.0
+    },
+    "165": {
+        "Region": "Europe",
+        "City Name": "Malta",
+        "Language": "cfb5310c4958ed16357aa5406e541fbeec602420",
+        "Time": 343.0
+    },
+    "166": {
+        "Region": "Europe",
+        "City Name": "Andorra",
+        "Language": "2c5e77fc08a7d5537c9c2807353393f67c068cbe",
+        "Time": 343.0
+    },
+    "167": {
+        "Region": "Europe",
+        "City Name": "Finland",
+        "Language": "04a422d38c95415cece1ac86e1ad2a1030048c03",
+        "Time": 343.0
+    },
+    "168": {
+        "Region": "Europe",
+        "City Name": "San Marino",
+        "Language": "485b57adcc80650a0f376fe516e0ea35fef68007",
+        "Time": 343.0
+    },
+    "169": {
+        "Region": "Europe",
+        "City Name": "Italy",
+        "Language": "485b57adcc80650a0f376fe516e0ea35fef68007",
+        "Time": 359.0
+    },
+    "170": {
+        "Region": "Europe",
+        "City Name": "Portugal",
+        "Language": "23882c575954a0789bf02aba9e6dd01f539bc738",
+        "Time": 359.0
+    },
+    "171": {
+        "Region": "Europe",
+        "City Name": "Austria",
+        "Language": "8db9b8636631c270672cdf3f5b79619ff9bd2b95",
+        "Time": 359.0
+    },
+    "172": {
+        "Region": "Europe",
+        "City Name": "Luxembourg",
+        "Language": "7f9d01a36854a1a484b593154bd1be6e592a3542",
+        "Time": 375.0
+    },
+    "173": {
+        "Region": "Europe",
+        "City Name": "Albania",
+        "Language": "d71c45b3d8a817df46d53626270c2cc92e52793f",
+        "Time": 375.0
+    },
+    "174": {
+        "Region": "Europe",
+        "City Name": "Ukraine",
+        "Language": "515451058797b204e188dd70f8d20f32dacca327",
+        "Time": 375.0
+    },
+    "175": {
+        "Region": "Europe",
+        "City Name": "France",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 390.0
+    },
+    "176": {
+        "Region": "Europe",
+        "City Name": "Serbia",
+        "Language": "a75ee8482a2c82952f1802a71a9ee0d0e4f4ff43",
+        "Time": 390.0
+    },
+    "177": {
+        "Region": "Europe",
+        "City Name": "North Macedonia",
+        "Language": "b3fe571f349f4b42daacd19bf3d1a708f4bec7cd",
+        "Time": 390.0
+    },
+    "178": {
+        "Region": "Europe",
+        "City Name": "Spain",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 390.0
+    },
+    "179": {
+        "Region": "Europe",
+        "City Name": "Ireland",
+        "Language": "2bddaea174340270be5a83fe7aed2e32aa628eba",
+        "Time": 406.0
+    },
+    "180": {
+        "Region": "Europe",
+        "City Name": "Slovakia",
+        "Language": "d6a8b06eb4898f96a2fc6d5d10dfc35b13982cb6",
+        "Time": 406.0
+    },
+    "181": {
+        "Region": "Europe",
+        "City Name": "Svalbard and Jan Mayen",
+        "Language": "79b723002f87708ebc11fd4f3b902a03f7c9a5c1",
+        "Time": 406.0
+    },
+    "182": {
+        "Region": "Europe",
+        "City Name": "Hungary",
+        "Language": "80cb96f852d1ce7ae9b00c59c13912122674f7ce",
+        "Time": 422.0
+    },
+    "183": {
+        "Region": "Europe",
+        "City Name": "Montenegro",
+        "Language": "f617672f7c9487885f593d5d61b5b420236d4505",
+        "Time": 422.0
+    },
+    "184": {
+        "Region": "Europe",
+        "City Name": "United Kingdom",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 422.0
+    },
+    "185": {
+        "Region": "Europe",
+        "City Name": "Iceland",
+        "Language": "4908b12c142b7bd671d43e5185556c158bb0999c",
+        "Time": 437.0
+    },
+    "186": {
+        "Region": "Europe",
+        "City Name": "Estonia",
+        "Language": "3cffdaf0e8467ee06a319f475345a1f59ece46c5",
+        "Time": 437.0
+    },
+    "187": {
+        "Region": "Europe",
+        "City Name": "Slovenia",
+        "Language": "e1c6d823cb20a2803416445c18a8e8802207ec71",
+        "Time": 453.0
+    },
+    "188": {
+        "Region": "Europe",
+        "City Name": "Monaco",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 453.0
+    },
+    "189": {
+        "Region": "Europe",
+        "City Name": "Latvia",
+        "Language": "9ed6ae997b1668915a9529a0889d5ac9735b0c4b",
+        "Time": 453.0
+    },
+    "190": {
+        "Region": "Europe",
+        "City Name": "Sweden",
+        "Language": "04a422d38c95415cece1ac86e1ad2a1030048c03",
+        "Time": 468.0
+    },
+    "191": {
+        "Region": "Europe",
+        "City Name": "Netherlands",
+        "Language": "334a85f1b16e32b6ba9a69313c6f584edef482cc",
+        "Time": 468.0
+    },
+    "192": {
+        "Region": "Europe",
+        "City Name": "Belarus",
+        "Language": "74ad93cbebf587ac46ab0ef1e3f24139ddd3f535",
+        "Time": 484.0
+    },
+    "193": {
+        "Region": "Europe",
+        "City Name": "Gibraltar",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 484.0
+    },
+    "194": {
+        "Region": "Europe",
+        "City Name": "Guernsey",
+        "Language": "1cdbbacb136da99efa34addf4fbc7f50e0a3b56e",
+        "Time": 500.0
+    },
+    "195": {
+        "Region": "Europe",
+        "City Name": "Liechtenstein",
+        "Language": "da91388c72d3e31da19dcd85c97374197748485d",
+        "Time": 500.0
+    },
+    "196": {
+        "Region": "Europe",
+        "City Name": "Croatia",
+        "Language": "3e5488aa8c4819bd5a17287d41825e63f6213203",
+        "Time": 500.0
+    },
+    "197": {
+        "Region": "Europe",
+        "City Name": "Switzerland",
+        "Language": "40929586610053a634b9e4f61c5b20f26870e295",
+        "Time": 515.0
+    },
+    "198": {
+        "Region": "Europe",
+        "City Name": "Czechia",
+        "Language": "d6a8b06eb4898f96a2fc6d5d10dfc35b13982cb6",
+        "Time": 515.0
+    },
+    "199": {
+        "Region": "Europe",
+        "City Name": "\u00c5land Islands",
+        "Language": "04a422d38c95415cece1ac86e1ad2a1030048c03",
+        "Time": 531.0
+    },
+    "200": {
+        "Region": "Europe",
+        "City Name": "Isle of Man",
+        "Language": "a27665e6323c735e5586141c4dce22db1a970872",
+        "Time": 531.0
+    },
+    "201": {
+        "Region": "Europe",
+        "City Name": "Bosnia and Herzegovina",
+        "Language": "a75ee8482a2c82952f1802a71a9ee0d0e4f4ff43",
+        "Time": 547.0
+    },
+    "202": {
+        "Region": "Europe",
+        "City Name": "Kosovo",
+        "Language": "a75ee8482a2c82952f1802a71a9ee0d0e4f4ff43",
+        "Time": 562.0
+    },
+    "203": {
+        "Region": "Europe",
+        "City Name": "Lithuania",
+        "Language": "553c519c9addc3f4dad41b4a23238251692354b7",
+        "Time": 578.0
+    },
+    "204": {
+        "Region": "Europe",
+        "City Name": "Bulgaria",
+        "Language": "cebed7688a5babc3ef7b5a3e8aa43667d482a257",
+        "Time": 578.0
+    },
+    "205": {
+        "Region": "Europe",
+        "City Name": "Greece",
+        "Language": "59d5f5b13f13f6d5e8e88a5a92e137f7d64b2954",
+        "Time": 593.0
+    },
+    "206": {
+        "Region": "Europe",
+        "City Name": "Jersey",
+        "Language": "c8b4c8fce6d336ecf001f1d6cf220a5af79e5b17",
+        "Time": 593.0
+    },
+    "207": {
+        "Region": "Europe",
+        "City Name": "Faroe Islands",
+        "Language": "0e9430a5c15a25c2e0bc6a804e7395a0d585931b",
+        "Time": 609.0
+    },
+    "208": {
+        "Region": "Europe",
+        "City Name": "Romania",
+        "Language": "cfd5233f6c25112a7ae3ff91e4acc195f899f25f",
+        "Time": 609.0
+    },
+    "209": {
+        "Region": "Europe",
+        "City Name": "Moldova",
+        "Language": "981fb1a731db18be7ffbc618830d04ecbc60cd90",
+        "Time": 625.0
+    },
+    "210": {
+        "Region": "Europe",
+        "City Name": "Denmark",
+        "Language": "9f9f264815f8de2fa0a0e756083fbbf633ed8ba1",
+        "Time": 625.0
+    },
+    "211": {
+        "Region": "Europe",
+        "City Name": "Norway",
+        "Language": "793f38dae1b72cc118f855963058502fad134d2f",
+        "Time": 625.0
+    },
+    "212": {
+        "Region": "Europe",
+        "City Name": "Poland",
+        "Language": "d011986407b1110e57283981ea38a369075023b8",
+        "Time": 640.0
+    },
+    "213": {
+        "Region": "Europe",
+        "City Name": "Germany",
+        "Language": "da91388c72d3e31da19dcd85c97374197748485d",
+        "Time": 640.0
+    },
+    "214": {
+        "Region": "Europe",
+        "City Name": "Belgium",
+        "Language": "334a85f1b16e32b6ba9a69313c6f584edef482cc",
+        "Time": 656.0
+    },
+    "215": {
+        "Region": "Europe",
+        "City Name": "Cyprus",
+        "Language": "ab650a1a4b8fdf3a4053ce8d277d335dd82e5447",
+        "Time": 672.0
+    },
+    "216": {
+        "Region": "Europe",
+        "City Name": "Vatican City",
+        "Language": "9bde795b72be44b343c829314d764282997de688",
+        "Time": 672.0
+    },
+    "217": {
+        "Region": "Europe",
+        "City Name": "Russia",
+        "Language": "74ad93cbebf587ac46ab0ef1e3f24139ddd3f535",
+        "Time": 672.0
+    },
+    "218": {
+        "Region": "Oceania",
+        "City Name": "Solomon Islands",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 281.0
+    },
+    "219": {
+        "Region": "Oceania",
+        "City Name": "Samoa",
+        "Language": "c95fa4a5fe1a4452891ae5075b831df107af6ad3",
+        "Time": 297.0
+    },
+    "220": {
+        "Region": "Oceania",
+        "City Name": "New Zealand",
+        "Language": "318bbecfdfc1e0c3afeecf96f0b0f177f3fd9b46",
+        "Time": 297.0
+    },
+    "221": {
+        "Region": "Oceania",
+        "City Name": "New Caledonia",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 297.0
+    },
+    "222": {
+        "Region": "Oceania",
+        "City Name": "Tonga",
+        "Language": "4d339fb580434e15b35f12176929b48ced2c88f0",
+        "Time": 297.0
+    },
+    "223": {
+        "Region": "Oceania",
+        "City Name": "Tokelau",
+        "Language": "f10261ef210489371352f128ba08e082da211a40",
+        "Time": 313.0
+    },
+    "224": {
+        "Region": "Oceania",
+        "City Name": "Niue",
+        "Language": "a63009ebc6308aa85ccac84d3f2813e61bfba44b",
+        "Time": 313.0
+    },
+    "225": {
+        "Region": "Oceania",
+        "City Name": "Australia",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 313.0
+    },
+    "226": {
+        "Region": "Oceania",
+        "City Name": "Papua New Guinea",
+        "Language": "3bcb38b01a230822ab213fabe6734d46de91be58",
+        "Time": 313.0
+    },
+    "227": {
+        "Region": "Asia",
+        "City Name": "Christmas Island",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 313.0
+    },
+    "228": {
+        "Region": "Oceania",
+        "City Name": "Wallis and Futuna",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 328.0
+    },
+    "229": {
+        "Region": "Oceania",
+        "City Name": "French Polynesia",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 328.0
+    },
+    "230": {
+        "Region": "Oceania",
+        "City Name": "Fiji",
+        "Language": "dfc144d3e4f550d1b751b965bbbf81cf884088e0",
+        "Time": 328.0
+    },
+    "231": {
+        "Region": "Oceania",
+        "City Name": "Nauru",
+        "Language": "f648c72a69c3a9b157c3603ebd4a75141a833e46",
+        "Time": 328.0
+    },
+    "232": {
+        "Region": "Oceania",
+        "City Name": "Pitcairn Islands",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 344.0
+    },
+    "233": {
+        "Region": "Oceania",
+        "City Name": "Palau",
+        "Language": "26138631a59adfe005ea07ba2b46436d6331471a",
+        "Time": 344.0
+    },
+    "234": {
+        "Region": "Oceania",
+        "City Name": "Micronesia",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 344.0
+    },
+    "235": {
+        "Region": "Oceania",
+        "City Name": "Northern Mariana Islands",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 360.0
+    },
+    "236": {
+        "Region": "Oceania",
+        "City Name": "Norfolk Island",
+        "Language": "2fbb6e0db2f7a136244d0524ce94b71d5abe782b",
+        "Time": 360.0
+    },
+    "237": {
+        "Region": "Oceania",
+        "City Name": "Kiribati",
+        "Language": "0069d707cfad7e8c89e94e588dfea3e22390a77f",
+        "Time": 360.0
+    },
+    "238": {
+        "Region": "Oceania",
+        "City Name": "Vanuatu",
+        "Language": "44389f6a466eaabf5c1db729e369511134e2b03b",
+        "Time": 360.0
+    },
+    "239": {
+        "Region": "Oceania",
+        "City Name": "Marshall Islands",
+        "Language": "ab2813b7a83c1ae47c0f201c4d6ac3c3816f41e7",
+        "Time": 375.0
+    },
+    "240": {
+        "Region": "Oceania",
+        "City Name": "American Samoa",
+        "Language": "c95fa4a5fe1a4452891ae5075b831df107af6ad3",
+        "Time": 375.0
+    },
+    "241": {
+        "Region": "Asia",
+        "City Name": "Cocos (Keeling) Islands",
+        "Language": "649df08a448ee3fa90f3746baaf6b0907df42c91",
+        "Time": 375.0
+    },
+    "242": {
+        "Region": "Oceania",
+        "City Name": "Tuvalu",
+        "Language": "c09bf38c8cbe31574b1157105f6a8a3232a103dd",
+        "Time": 391.0
+    },
+    "243": {
+        "Region": "Oceania",
+        "City Name": "Guam",
+        "Language": "8df7f1b361b2af42d36011e00d22c0f9891ec0b0",
+        "Time": 391.0
+    },
+    "244": {
+        "Region": "Oceania",
+        "City Name": "Cook Islands",
+        "Language": "e6676e57ef5a635e777351524b99ff9c97ddc353",
+        "Time": 391.0
+    }
+}
